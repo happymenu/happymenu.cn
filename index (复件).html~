@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    </head>
+    <body>
+      <div style='border: 1px solid red;text-align:center; position:relative;'>
+        <img src='content.jpg'></img>
+        <div style=' text-align: left; position: relative; top: -1800px; height: 578px; width: 600px; font-size: 34px; left: 48%; '>
+        大家好~
+        北京乐单软件有限公司 (http://happymenu.cn)
+        由于业务快速增长，需要给力的小伙伴们的加入~我们是初创公司，有一个比较稳定的小团队。我们有着宽敞明亮的办公室， 地址在三元桥地铁站附近的霄云中心~公司的业务是：web相关，移动互联网方向 。由于业务的快速增加，我们需要给力的伙伴加入我们 JOIN US
+        </div>
+        <div style=' position: relative; text-align: left; left: 53%; top: -1500px; height: 500px; width: 780px; font-size: 40px;'>
+        工作内容以ruby开发为主，包括使用ruby开发web。开发android和ios，我们也会要求你用js开发。用swift开发，视情况而定，对于生僻的知识，你也不用怕。我们有永远有耐心的CTO手把手的教你，跟你校对编程。
+        </div>
+        <div style=' position: relative; text-align: left; top: -1419px; height: 264px; left: 21%; width: 683px; font-size: 40px; }'>
+        目前每年12薪，7K～ 15K。视能力而定。
+        工资会随着能力的提高而调整。
+        半年一次。有项目奖金。
+        </div>
+        <!-- </div>
+      <div style='border: 1px solid red;text-align:center; position: relative;padding:0; margin:0'> -->
+       <img src='job_list.png'/>
+     </div>
+  </body>
+  </html>
